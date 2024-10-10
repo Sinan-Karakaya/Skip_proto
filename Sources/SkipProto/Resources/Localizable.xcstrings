@@ -226,6 +226,9 @@
         }
       }
     },
+    "requires iOS 17.0 or macOS 14.0" : {
+
+    },
     "Screen %lld" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -310,6 +313,9 @@
           }
         }
       }
+    },
+    "Test" : {
+
     },
     "Welcome" : {
       "localizations" : {
